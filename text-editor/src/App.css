@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #88A09E;
+  height: 100vh;
 }
 
 .App-logo {
@@ -28,4 +30,24 @@
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
+}
+
+.rdw-editor-toolbar {
+  justify-content: center;
+  
+}
+
+.rdw-editor-main {
+  min-height: 500px;
+  background-color: #fff;
+  margin-top: 20px;
+  padding: 15px;
+}
+
+.rdw-editor {
+  min-height: 500px;
+}
+
+.rdw-dropdown-selectedtext {
+  border-bottom: 1px solid #131313;
 }
