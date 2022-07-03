@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   background-color: #88A09E;
-  height: 100vh;
+  height: 150vh;
 }
 
 .App-logo {
@@ -33,12 +33,12 @@
 }
 
 .rdw-editor-toolbar {
-  justify-content: center;
-  
+  padding: 15px 70px;
+  justify-content: center;  
 }
 
 .rdw-editor-main {
-  min-height: 500px;
+  min-height: 70vh;
   background-color: #fff;
   margin-top: 20px;
   padding: 15px;
